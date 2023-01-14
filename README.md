@@ -4,7 +4,7 @@
 ### this is fred
 ![fred](https://user-images.githubusercontent.com/77080832/198335065-333b6106-8571-4f66-b21f-6a59b41868df.png)
 
-say hi to fred please tha nk you
+say hi to fred please thank you
 
 ### top 10 things i work on compilation
 
@@ -12,4 +12,4 @@ say hi to fred please tha nk you
 * a game that is currently private as of now
 * other goofy joke stuff
 
-(had to do it like This because if i numbered it git hub would say it was numbe 3 instead of 10 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓)
+(had to do it like This because if i numbered it git hub would say it was number 3 instead of 10 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓)
