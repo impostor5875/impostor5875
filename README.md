@@ -13,4 +13,4 @@ say hi to fred please tha nk you
 * pipebomb among us
 * other goofy joke stuff
 
-(had to do it like This because if i numbered it git hub would say it was numbe 3 instead of 10 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓)
+(had to do it like This because if i numbered it git hub would say it was numbe 10 instead of 4 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓)
